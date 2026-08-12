@@ -9,6 +9,8 @@
 - `assets/css/styles.css`：全站樣式。
 - `assets/js/subscribe.js`：訂閱表單前端互動，目前用 localStorage 模擬成功狀態。
 - `assets/images/`：已安裝的部落格視覺資源。
+- `reports/weekly-sunzi.html`：世勢週報，孫子兵法詮釋版。
+- `reports/monthly-sunzi.html`：世勢月報，孫子兵法詮釋版。
 - `resources/editorial-plan.md`：內容定位、欄目與發刊節奏。
 - `resources/newsletter-template.html`：可複用的電子報 HTML 模板。
 
